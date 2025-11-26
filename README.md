@@ -1,5 +1,5 @@
 # 💳 Análise de Risco de Crédito - MinerAI
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JGzQpN_H2i0FFbBth5R0WjgbIYGM0ybD?usp=sharing)
 Este repositório contém o projeto final da disciplina de **Data Mining**, focado na criação de um modelo de concessão de cartões de crédito para a empresa fictícia **MinerAI**.
 
 ## 🎯 Objetivo
